@@ -4,3 +4,20 @@ body{
   color: #fff;
   font-family: 'Oxygen', sans-serif;
 }
+
+
+#header-nav{
+  background-color: #f6b319;
+  border-radius: 0;
+  border: 0;
+}
+
+
+#logo-img{
+  background: url("../images/peterthejoker.jpg") no-repeat center;
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+  margin: 10px 15px 10px 0;
+  border-radius: 100px;
+}
