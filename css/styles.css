@@ -12,6 +12,9 @@ body{
   border: 0;
 }
 
+a.pull-left{
+  float: left !important;
+}
 
 #logo-img{
   background: url("../images/peterthejoker.jpg") no-repeat center;
